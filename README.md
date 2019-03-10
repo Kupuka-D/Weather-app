@@ -1,6 +1,6 @@
 
 
-## Aplicacion del clima con servicios de geolocalizacion y temperatura
+## Weather application with services of geolocalization and temperature
 
 libraries installed:
  yargs, for the console(params, commands, opctions, etc)
